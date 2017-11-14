@@ -8,3 +8,4 @@ A skeleton rails project. It contains:
 - `dotenv`
 - `better_errors` & `binding_of_caller`
 - `rack-attack`
+- `factory-whatsit` & `rspec`
